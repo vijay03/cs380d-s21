@@ -31,7 +31,7 @@ This course will introduce students to
 
 and more! 
 
-**Piazza Link: [piazza.com/utexas/spring2021/cs380d](piazza.com/utexas/spring2021/cs380d)** 
+**Piazza Link: [piazza.com/utexas/spring2021/cs380d](http://piazza.com/utexas/spring2021/cs380d)** 
 
 **Canvas Link:
 [https://utexas.instructure.com/courses/1304719](https://utexas.instructure.com/courses/1304719)** 
@@ -183,12 +183,16 @@ This course is inspired by (and uses material from) courses taught
   Arpaci-Dusseau</a>, <a href="http://www.cs.utexas.edu/~simon/">Simon
   Peter</a>, and <a href="https://www.cs.utexas.edu/~rossbach/">Chris
   Rossbach</a>.
-  
+
+The course follows Prof. [Martin Kleppmann](https://martin.kleppmann.com/)'s course on [Distributed
+Systems](https://www.cst.cam.ac.uk/teaching/2021/ConcDisSys), and uses [his lecture slides](https://martin.kleppmann.com/2020/11/18/distributed-systems-and-elliptic-curves.html).
+
 ### Copyright
 
 <p>Copyright Notice: These course materials, including, but not
-  limited to, lecture notes, homeworks, and projects are copyright
-  protected.  You must ask me permission to use these materials.</p>
+limited to, lecture notes, homeworks, and projects are copyright
+protected.  You must ask me, or the original author, permission to use
+these materials.</p>
 
 <p>I do not grant to you the right to publish these materials for profit
   in any form. Any unauthorized copying of the class materials is a
