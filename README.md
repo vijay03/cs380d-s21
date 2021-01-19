@@ -50,7 +50,7 @@ Office hours: Fri 3 to 4 PM, [Zoom](https://utexas.zoom.us/j/92558966439)
 
 Email: libingye@utexas.edu
 
-Office hours: TBD
+Office hours: Wed 5-6 PM CST, [Zoom](https://utexas.zoom.us/j/92494447869)
 
 ### Grading 
 
