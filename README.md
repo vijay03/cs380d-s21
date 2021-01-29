@@ -96,8 +96,7 @@ the exam.
 <p>There will be two big projects in the course. Students will work in
   groups of 2--4 for both projects.</p>
 
-<p>The first project will involve building a distributed key-value
-store. More details will be released soon.</p>
+<p>The first project will involve building Raft, a replicated state machine protocol. More details can be found [here](https://github.com/vijay03/cs380d-s21/blob/master/project1/CS380D_P1.pdf).</p>
 
 
 <p>The second project is an open-ended research project. The team will
