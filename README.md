@@ -94,7 +94,7 @@ the exam.
 ### Projects
 
 <p>There will be two big projects in the course. Students will work in
-  groups of 2--4 for both projects.</p>
+  groups of 1--2 for Project 1 and 1--3 for Project 2.</p>
 
 <p>The first project will involve building Raft, a replicated state machine protocol. More details can be found <a href="https://github.com/vijay03/cs380d-s21/blob/master/project1/CS380D_P1.pdf">here</a>. </p>
 
