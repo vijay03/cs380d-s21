@@ -36,7 +36,7 @@ and more!
 **Canvas Link:
 [https://utexas.instructure.com/courses/1304719](https://utexas.instructure.com/courses/1304719)** 
 
-**Class Timing and Location**: TuTh 3:30 pm - 5 pm, [Zoom](https://utexas.zoom.us/j/96365220788)
+**Class Timing and Location**: TuTh 3:30 pm - 5 pm, [Zoom](https://utexas.zoom.us/j/99987044895)
 
 **[Schedule](https://docs.google.com/spreadsheets/d/1oZlRvpU_vd8KGebd1mJD71xMpTFW3-e1vMuhYJDJqjs/edit?usp=sharing)**
 
