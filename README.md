@@ -36,7 +36,7 @@ and more!
 **Canvas Link:
 [https://utexas.instructure.com/courses/1304719](https://utexas.instructure.com/courses/1304719)** 
 
-**Class Timing and Location**: TuTh 3:30 pm - 5 pm, [Zoom](https://utexas.zoom.us/j/96365220788)
+**Class Timing and Location**: TuTh 3:30 pm - 5 pm, [Zoom](https://utexas.zoom.us/j/99987044895)
 
 **[Schedule](https://docs.google.com/spreadsheets/d/1oZlRvpU_vd8KGebd1mJD71xMpTFW3-e1vMuhYJDJqjs/edit?usp=sharing)**
 
@@ -94,10 +94,9 @@ the exam.
 ### Projects
 
 <p>There will be two big projects in the course. Students will work in
-  groups of 2--4 for both projects.</p>
+  groups of 1--2 for Project 1 and 1--3 for Project 2.</p>
 
-<p>The first project will involve building a distributed key-value
-store. More details will be released soon.</p>
+<p>The first project will involve building Raft, a replicated state machine protocol. More details can be found <a href="https://github.com/vijay03/cs380d-s21/blob/master/project1/CS380D_P1.pdf">here</a>. </p>
 
 
 <p>The second project is an open-ended research project. The team will
