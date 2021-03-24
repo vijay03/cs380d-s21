@@ -52,6 +52,10 @@ Email: libingye@utexas.edu
 
 Office hours: Wed 5-6 PM CST, [Zoom](https://utexas.zoom.us/j/92494447869)
 
+### Learning Goals and Objectives
+
+By the end of course, the student must know basic concepts in building distributed systems, must have first-hand experience in building and testing a small distributed system, and gain experience in either distributed-systems research or working on open-source distributed systems.
+
 ### Grading 
 
 **10%** Weekly reading <br>
@@ -59,6 +63,19 @@ Office hours: Wed 5-6 PM CST, [Zoom](https://utexas.zoom.us/j/92494447869)
 **20%** Midterm-2 <br>
 **25%** Project 1: Implementing a distributed key-value store <br>
 **25%** Project 2: Research project <br>
+
+### Letter grades 
+
+Letter grades will be given out based on absolute scores. Typically, grades are given as follows:
+
+```
+>= 94 A
+>= 90 A-
+>= 87.5 B+
+>= 85 B
+>= 80 B-
+>= 77.5 C+
+```
 
 ### Extra Credit
 
