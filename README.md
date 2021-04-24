@@ -81,16 +81,13 @@ Letter grades will be given out based on absolute scores. Typically, grades are 
 
 There are a number of opportunities to earn extra credit. One of the
 goals of this class is to get you started in research in distributed
-systems. As such, I offer extra credit for working on research and
-getting to a feasible submission.
+systems. 
 
 1. Introduction note. Submit a PDF to the Canvas extra-credit assignment with your
 name and photo, introducing yourself. Tell me some interesting facts
 about yourself! This is worth 0.25% (of the total grade) extra credit.
 
-2. Class surveys. You will receive 0.25% (of the total grade) extra
-credit for completing an unofficial survey (before the first
-mid-term), and 0.25% for completing an official survey near the end of
+2. Class survey. You will receive 0.25% for completing an official survey near the end of
 class. You will need to upload a screenshot of the completed survey to Canvas.
 
 ### Exams
